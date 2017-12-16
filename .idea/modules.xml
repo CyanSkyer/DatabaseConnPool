@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ConnPool/ConnPool.iml" filepath="$PROJECT_DIR$/ConnPool/ConnPool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DatabaseConnPool.iml" filepath="$PROJECT_DIR$/.idea/DatabaseConnPool.iml" />
+    </modules>
+  </component>
+</project>
